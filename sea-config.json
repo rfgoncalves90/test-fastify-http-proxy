@@ -1,0 +1,5 @@
+{
+    "output": "sea-prep.blob",
+    "disableExperimentalSEAWarning": true,
+    "main": "bundled.js"
+}
